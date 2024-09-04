@@ -26,4 +26,5 @@ public class CompanyEntity {
         this.ticker = company.getTicker();
         this.name = company.getName();
     }
+
 }
